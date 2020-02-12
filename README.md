@@ -7,3 +7,6 @@ Pathfinder and Visualiser application
  from a mathematics background I was fascinated by algorithms, I took it onto myself to learn how Dijkstra’s
  algorithm worked and then implement a tool to demonstrate it in action. This application has many fields that it can
  be applied to such as pathfinding AI in a game or route planning on a map.
+
+# Gif Demo
+<img src="./images/Pathfinder-Demo.gif"/>
